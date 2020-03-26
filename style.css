@@ -1,1 +1,60 @@
-
+html{
+	
+}
+ body{
+      background-color: rgb(30,30,30);
+	  color: rgb(158,154,150);
+	}
+	#contact{
+	  color: rgb(219,188,48);
+    }
+	h1{
+	  color:rgb(255,153,51);
+	}
+    h2{
+      color: rgb(0,235,235);
+	}
+	h3{
+	}
+	h4{
+	}
+	h5{
+	color: rgb(158,154,150);
+	}
+	h6{
+	}
+    #minnesota{
+		color: rgb(219,188,48);
+	}
+	
+	#marquette{
+		color: rgb(219,188,48);
+	}
+	
+	#tph{
+		color: rgb(255,153,51);
+	}
+	
+	#exos{
+		color: rgb(255,153,51);
+	}
+	
+	#categories{
+		color: rgb(255,153,51);
+	}
+	#rgb1{
+		color: rgb(255,5,5);
+	}
+	#rgb2{
+		color: rgb(5,255,5);
+	}
+	#rgb3{
+		color: rgb(5,5,255);
+	}
+	#rgb4{
+		color: rgb(192,72,192);
+	}
+	#rgb5{
+		color: rgb(219,188,48);
+	}
+	
