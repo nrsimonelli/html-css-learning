@@ -1,2 +1,2 @@
-# nrsimonelli.github.io
+# prime application
 learning html resume
